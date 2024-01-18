@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: frankbett/devops-pipeline:tagname 
+          image: frankbett/devops-pipeline:1.0.0-17 
           resources:
             limits:
               memory: "256Mi"
